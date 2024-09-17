@@ -1,0 +1,38 @@
+/* Appbar.css */
+
+.navbar {
+    position: absolute;
+    top: 55px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: white;
+    z-index: 10; /* Ensure it overlays other content */
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .menu a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .menu a:hover {
+    text-decoration: underline;
+  }
+
+.cart{
+  margin-right: 270px;
+  font-size: 30px;
+}
+
+
+  

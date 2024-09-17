@@ -1,0 +1,91 @@
+
+.car-description-page {
+  display: flex;
+  background-color: #000;
+  color: #fff;
+  margin-top: 150px;
+}
+
+.left-section, .right-section {
+  padding: 20px;
+}
+
+.left-section {
+  width: 60%;
+}
+
+.right-section {
+  width: 40%;
+  background-color: #1c1c1c;
+  border-left: 1px solid #333;
+}
+
+.car-title h3 {
+  color: #ffb400;
+  margin-bottom: 10px;
+}
+
+.car-title h2 {
+  color: #fff;
+  font-size: 36px;
+}
+
+.car-image {
+  position: relative;
+}
+
+.car-image img {
+  width: 100%;
+}
+
+.special-offer {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: #ffb400;
+  padding: 5px 10px;
+  color: #000;
+}
+
+.image-actions {
+  margin-top: 10px;
+}
+
+.pricing-info {
+  background-color: #0033cc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.pricing-info .buy-now {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pricing-info .buy-now div {
+  font-size: 20px;
+}
+
+.pricing-info .instant-savings {
+  font-size: 16px;
+  color: #ffb400;
+  margin-top: 10px;
+}
+
+.dealer-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.dealer-photo img {
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.car-details div {
+  background-color: #333;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}

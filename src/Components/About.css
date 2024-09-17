@@ -1,0 +1,27 @@
+.about-container {
+    padding: 40px;
+    margin-top: 150px;
+  }
+
+/* App.css */
+.container1 {
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  padding: 20px;
+  background-color: #f0f0f0; /* Optional background color */
+}
+
+.customers {
+  display: flex;
+  flex-direction: row; /* Align children in a row */
+  gap: 20px; /* Space between the two components */
+  width: 100%;
+}
+
+.customers > div {
+  flex: 2; /* Each child will take equal space */
+  background-color: #fff; /* Optional background color for children */
+  padding: 20px; /* Optional padding for children */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional box shadow for children */
+}
+

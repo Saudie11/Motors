@@ -1,0 +1,109 @@
+.carousel-control-next{
+  left: 1100px !important; 
+}
+.carousel.slide {
+    height: 700px;  
+}
+.carousel-item {
+    margin: 0%;
+}
+.Slide1{
+ width: 1500px;
+}
+.Slide2{
+  width: 1500px;
+ }
+
+ .offer-card {
+  position: relative;
+  width: 100%;
+  max-width: 1600px; /* Adjust as needed */
+  height: 600px; /* Adjust as needed */
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+
+}
+
+.offer-content {
+  /* background: rgba(0, 0, 0, 0.5); */
+  background: transparent;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+ position: absolute;
+ bottom: 180px;
+}
+ 
+.offer-content h1 {
+  font-size: 50px;
+  margin-bottom: 40px;
+}
+
+.price {
+  font-size: 40px !important;
+  color: #FFA500 !important; /* Orange color */
+  margin-bottom: 20px;
+}
+
+.price .per-month {
+  font-size: 30px;
+}
+
+.offer-content h4 {
+  font-size: 24px;
+  margin-bottom: 26px;
+}
+
+.test-drive {
+  margin-right: 40px;
+  border-color: white;
+  color: white;
+}
+
+.learn-more {
+  background-color: #007bff;
+  color: white;
+}
+.offer-card2 {
+  position: relative;
+  width: 100%;
+  height: 200%;
+  display: flex;
+  align-items: center;
+}
+
+.offer-content2 {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  max-width: 400px; /* Adjust as needed */
+  position: absolute;
+  left: 10px;
+  bottom:100px;
+}
+
+.offer-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.offer-details {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.test-drive2 {
+  margin-right: 10px;
+  border-color: white;
+  color: white;
+}
+
+.learn-more2 {
+  background-color: #007bff;
+  color: white;
+}
