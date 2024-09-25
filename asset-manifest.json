@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Motors/static/css/main.5bcfa552.css",
+    "main.js": "/Motors/static/js/main.1f483464.js",
+    "static/js/453.3c83cfe8.chunk.js": "/Motors/static/js/453.3c83cfe8.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Motors/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/slide_2.jpg": "/Motors/static/media/slide_2.add0de031e0bb2594b48.jpg",
+    "static/media/bg-1.jpg": "/Motors/static/media/bg-1.07daf2fbe4a9012ade4a.jpg",
+    "static/media/slide_1.jpg": "/Motors/static/media/slide_1.62b01711ee7b133826ed.jpg",
+    "static/media/fa-brands-400.ttf": "/Motors/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/Contact1.jpg": "/Motors/static/media/Contact1.bdcad53545fab3b18148.jpg",
+    "static/media/fa-solid-900.woff2": "/Motors/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Motors/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/999.jpg": "/Motors/static/media/999.9449cc9db402c2baaed6.jpg",
+    "static/media/fa-regular-400.ttf": "/Motors/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/about-us-2.jpeg": "/Motors/static/media/about-us-2.1a4ccbc4b42c22221c59.jpeg",
+    "static/media/about-us-1.jpeg": "/Motors/static/media/about-us-1.280b544b675c65359d95.jpeg",
+    "static/media/benz4.jpg": "/Motors/static/media/benz4.d865dfc0be8eaed9bc18.jpg",
+    "static/media/fa-regular-400.woff2": "/Motors/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/urus1.jpeg": "/Motors/static/media/urus1.8fd3873bc11994020464.jpeg",
+    "static/media/urus3.jpeg": "/Motors/static/media/urus3.67d822c72562d53f6a84.jpeg",
+    "static/media/tesla2.jpeg": "/Motors/static/media/tesla2.d4b8d5697b40e10f4449.jpeg",
+    "static/media/tesla1.jpeg": "/Motors/static/media/tesla1.f4ccdbaa881709a7b625.jpeg",
+    "static/media/Nissan3.jpg": "/Motors/static/media/Nissan3.4717cd9b7d662c26328f.jpg",
+    "static/media/benz2.jpg": "/Motors/static/media/benz2.1083d0825e1a01beaa69.jpg",
+    "static/media/benz3.jpg": "/Motors/static/media/benz3.ee8b723841a6375fd452.jpg",
+    "static/media/urus2.jpeg": "/Motors/static/media/urus2.c5eac49ae31a58f35fd5.jpeg",
+    "static/media/benz1.jpg": "/Motors/static/media/benz1.db161feef4a46884a02c.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Motors/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Motors/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/Motors/index.html",
+    "main.5bcfa552.css.map": "/Motors/static/css/main.5bcfa552.css.map",
+    "main.1f483464.js.map": "/Motors/static/js/main.1f483464.js.map",
+    "453.3c83cfe8.chunk.js.map": "/Motors/static/js/453.3c83cfe8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bcfa552.css",
+    "static/js/main.1f483464.js"
+  ]
+}
